@@ -5,8 +5,8 @@ main:
   - name: Contributing
     ref: ""
     sub:
-      - name: Signing Up
-        ref: "signing-up"
+      - name: Autorização de Uso de Imagem e Voz
+        ref: "autorizacao-imagem-voz"
       - name: Values
         ref: "values"
       - name: Aliases
