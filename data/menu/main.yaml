@@ -1,10 +1,10 @@
 ---
 main:
   - name: SOBRE
-    ref: "sobre"
+    ref: "index"
     sub:
       - name: LICENÇAS
-        ref: "sobre"
+        ref: "index"
   - name: Contributing
     ref: ""
     sub:
