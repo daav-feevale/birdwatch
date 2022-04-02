@@ -11,7 +11,7 @@ html {
   font-weight: 400;
   font-stretch: 100%;
   font-display: swap;
-  src: url(https://diretorio.video/docs/themes/geekdoc/static/fonts/CHANEY-Docs-Regular.woff2) format('woff2');
+  src: url(https://diretorio.video/docs/fonts/CHANEY-Docs-Regular.woff2) format('woff2');
 }
 
 /* @media (min-width: 1685px) {
