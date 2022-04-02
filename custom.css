@@ -413,6 +413,7 @@ h3 {
 .gdoc-nav--more h2,
 .gdoc-nav--main > ul > li > span,
 .gdoc-nav--main > ul > li > span > a {
+  font-family: 'CHANEY Docs';
   font-size: 0.9rem;
   font-weight: 700;
   color: var(--tw-color-text-primary) !important;
