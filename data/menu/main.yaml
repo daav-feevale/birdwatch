@@ -4,7 +4,7 @@ main:
     ref: "sobre"
     sub:
       - name: LICENÇAS
-        ref: "licencas"
+        ref: "sobre"
   - name: Contributing
     ref: ""
     sub:
