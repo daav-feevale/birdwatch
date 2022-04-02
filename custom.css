@@ -43,7 +43,7 @@ h6 {
 }
 
 h1 {
-  font-family: CHANEY Docs Regular;
+  font-family: CHANEY Docs;
   letter-spacing: normal;
 }
 
@@ -111,7 +111,7 @@ code span {
   overflow: scroll;
 }
 span.gdoc-brand {
-  font-family: 'CHANEY Docs Regular';
+  font-family: 'CHANEY Docs';
   color: var(--tw-color-text-primary);
 }
 
