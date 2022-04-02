@@ -6,6 +6,13 @@ aliases: ["/sobre", "/intro"]
 
 {{< figure class="hero" src="images/hero.png">}}
 
+# Imagino que você tenha chegado aqui por acaso.
+> Não por acaso.
+
+Este website está em construção, por favor volte para o [diretorio.video](https://diretorio.video).
+
+---------
+
 # O que é o /docs
 
 Seja muito bem-vindo(a) ao **/docs**.
