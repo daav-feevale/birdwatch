@@ -1,14 +1,10 @@
 ---
 main:
-  - name: About
-    ref: ""
+  - name: SOBRE
+    ref: "sobre"
     sub:
-      - name: Overview
-        ref: "overview"
-      - name: Challenges
-        ref: "challenges"
-      - name: FAQs
-        ref: "faq"
+      - name: LICENÇAS
+        ref: "licencas"
   - name: Contributing
     ref: ""
     sub:
