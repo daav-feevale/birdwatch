@@ -97,6 +97,7 @@ code span {
   overflow: scroll;
 }
 span.gdoc-brand {
+  font-family: 'CHANEY Docs Regular';
   color: var(--tw-color-text-primary);
 }
 
