@@ -1,14 +1,17 @@
 ---
-more:
+MAIS:
   # - name: "News"
   #   ref: "/posts"
   #   external: false
   #   icon: "notification"
-  - name: "View source on GitHub"
-    ref: "https://github.com/twitter/birdwatch"
+  - name: "Voltar para o diretorio.video"
+    ref: "https://diretorio.video/"
     external: true
-    icon: "github"
-  - name: "Follow @Birdwatch"
-    ref: "https://twitter.com/birdwatch"
+  - name: "Siga-nos no Instagram"
+    ref: "https://instagram.com/daav_feevale"
     external: true
-    icon: "twitter"
+    icon: "instagram"
+  - name: "Encontrei um problema"
+    ref: "mailto:daav@feevale.br"
+    external: true
+    icon: "email"
