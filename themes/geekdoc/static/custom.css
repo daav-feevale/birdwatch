@@ -1,2 +1,11 @@
 /* You can add custom styles here. */
 
+/* CHANEY Docs Regular */
+@font-face {
+  font-family: 'CHANEY Docs';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://diretorio.video/docs/themes/geekdoc/static/fonts/CHANEY-Docs-Regular.woff2) format('woff2');
+}
