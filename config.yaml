@@ -37,5 +37,5 @@ params:
   geekdocLogo: "images/birdwatch-icon.png"
   geekdocBreadcrumb: false
   geekdocSearch: false
-  # geekdocRepo: "https://github.com/twitter/birdwatch"
+  # geekdocRepo: "https://github.com/daav_feevale/docs"
   # geekdocEditPath: "edit/main/content"
