@@ -1,6 +1,6 @@
 baseURL: https://diretorio.video/docs
 languageCode: pt-br
-title: diretorio.video/docs
+title: /docs
 
 theme: "geekdoc"
 
