@@ -1,10 +1,7 @@
 ---
 main:
-  - name: SOBRE
+  - name: Bem-vindo!
     ref: "_index.md"
-    sub:
-      - name: LICENÇAS
-        ref: "_index.md"
   - name: Contributing
     ref: ""
     sub:
