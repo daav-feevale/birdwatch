@@ -14,6 +14,6 @@ geekdocBreadcrumb: false
 weight: 1
 ---
 
-A <h6>Autorização de Uso de Imagem e Voz</h6>... **o que mais deveria estar escrito aqui?**
+A **Autorização de Uso de Imagem e Voz** é a declaração expressa do **gravado** de que o **gravador** tem a sua permissão para gravá-lo e usufruir deste conteúdo enquanto detentor dos direitos autorais. 
 
-Me perdi, mas é esse o site.
+{{< button href="https://twitter.com/i/flow/join-birdwatch" >}}Faça o Download{{< /button >}}
